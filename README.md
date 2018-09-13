@@ -14,13 +14,17 @@ For the first stage, we apply DDSM as training and testing set. DDSM (digital da
 
 (a)	Content of whole procedure
 
-[locate.py](https://www.tensorflow.org/install/): sort out ROI/full mammogram from DDSM dataset
+[locate.py](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/locate.py
+): sort out ROI/full mammogram from DDSM dataset
 
-trans.py: convert dicom files into jpeg, can be connected to locate.py by editing “path”
+[trans.py](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/trans.py
+): convert dicom files into jpeg, can be connected to locate.py by editing “path”
 
-training.py: training, testing, cross-validation, can be connected to trans.py by adding the path of converted images
+[training.py](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/training.py
+): training, testing, cross-validation, can be connected to trans.py by adding the path of converted images
 
-mask of the breast area and auto ROI.ipynb: providing the mask of breast area and cut out embedded patients’ information as well as generating cluster area by FCM
+[mask of the breast area and auto ROI.ipynb](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/mask of the breast area and auto ROI.ipynb
+): providing the mask of breast area and cut out embedded patients’ information as well as generating cluster area by FCM
 
 (b)	Other attempts
 
