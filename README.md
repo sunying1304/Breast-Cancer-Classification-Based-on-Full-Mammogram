@@ -54,7 +54,7 @@ Example output of FCM is shown in mask of the breast area and auto ROI.ipynb fil
 
 Example of cross-validation result of auto-generated ROI:
 
-<div align=center><img width="450" height="350" src="https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/CV%20ROC.png"/></div>
+<div align=center><img width="400" height="300" src="https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/CV%20ROC.png"/></div>
 
 
 
