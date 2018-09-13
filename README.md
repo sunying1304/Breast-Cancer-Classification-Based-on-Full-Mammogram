@@ -23,8 +23,7 @@ For the first stage, we apply DDSM as training and testing set. DDSM (digital da
 [training.py](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/training.py
 ): training, testing, cross-validation, can be connected to trans.py by adding the path of converted images
 
-[mask of the breast area and auto ROI.ipynb](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/mask of the breast area and auto ROI.ipynb
-): providing the mask of breast area and cut out embedded patients’ information as well as generating cluster area by FCM
+[mask of the breast area and auto ROI.ipynb](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/mask%20of%20the%20breast%20area%20and%20auto%20ROI.ipynb): providing the mask of breast area and cut out embedded patients’ information as well as generating cluster area by FCM
 
 (b)	Other attempts
 
