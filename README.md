@@ -39,6 +39,7 @@ image segmentation – threshold and histogram.ipynb: providing the mask of brea
 
 Example output of FCM is shown in mask of the breast area and auto ROI.ipynb file.
 Example of cross-validation result of auto-generated ROI:
+
 ![Image text](https://github.com/sunying1304/Breast-Cancer-Classification-Based-on-Full-Mammogram/blob/master/CV%20ROC.png)
 
 
